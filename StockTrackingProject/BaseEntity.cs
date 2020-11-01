@@ -11,3 +11,5 @@ namespace StockTrackingProject
     {
         public BaseEntity()
         {
+            id = Guid.NewGuid();
+        }
