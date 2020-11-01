@@ -9,3 +9,5 @@ namespace StockTrackingProject
 {
     public abstract class BaseEntity : IEntity
     {
+        public BaseEntity()
+        {
