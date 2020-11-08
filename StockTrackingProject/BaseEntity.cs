@@ -16,3 +16,6 @@ namespace StockTrackingProject
         private Guid id;
         public Guid Id
         {
+            get
+            {
+                return id;
