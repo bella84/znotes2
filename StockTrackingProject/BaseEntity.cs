@@ -19,3 +19,5 @@ namespace StockTrackingProject
             get
             {
                 return id;
+            }
+        }
