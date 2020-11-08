@@ -14,3 +14,5 @@ namespace StockTrackingProject
             id = Guid.NewGuid();
         }
         private Guid id;
+        public Guid Id
+        {
