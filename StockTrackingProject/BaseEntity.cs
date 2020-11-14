@@ -21,3 +21,5 @@ namespace StockTrackingProject
                 return id;
             }
         }
+    }
+}
