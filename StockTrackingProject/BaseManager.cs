@@ -6,3 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace StockTrackingProject
+{
+    public class BaseManager<T> : IBaseManager<T> where T : IEntity
+    {
+        protected List<T> entities;
+        public BaseManager()
