@@ -11,3 +11,5 @@ namespace StockTrackingProject
     {
         protected List<T> entities;
         public BaseManager()
+        {
+            entities = new List<T>();
