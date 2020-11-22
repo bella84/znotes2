@@ -18,3 +18,5 @@ namespace StockTrackingProject
         {
             entities.Add(entity);
         }
+        public void Remove(Guid id)
+        {
