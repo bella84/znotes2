@@ -13,3 +13,6 @@ namespace StockTrackingProject
         public BaseManager()
         {
             entities = new List<T>();
+        }
+        public void Add(T entity)
+        {
