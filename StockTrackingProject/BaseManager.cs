@@ -16,3 +16,5 @@ namespace StockTrackingProject
         }
         public void Add(T entity)
         {
+            entities.Add(entity);
+        }
