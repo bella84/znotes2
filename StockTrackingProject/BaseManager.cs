@@ -20,3 +20,5 @@ namespace StockTrackingProject
         }
         public void Remove(Guid id)
         {
+            T entity = null;
+            foreach (T a in entities)
