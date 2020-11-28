@@ -22,3 +22,4 @@ namespace StockTrackingProject
         {
             T entity = null;
             foreach (T a in entities)
+            {
