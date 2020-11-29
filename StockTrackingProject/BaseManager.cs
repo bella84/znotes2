@@ -34,3 +34,5 @@ namespace StockTrackingProject
         {
             return entities.Count();
         }
+        public virtual void ShowAll()
+        {
