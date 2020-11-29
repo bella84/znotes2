@@ -26,3 +26,7 @@ namespace StockTrackingProject
                 if (a.Id == id)
                 {
                     entity = a;
+                }
+            }
+            entities.Remove(entity);
+        }
