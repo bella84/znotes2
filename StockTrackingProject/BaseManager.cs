@@ -23,3 +23,6 @@ namespace StockTrackingProject
             T entity = null;
             foreach (T a in entities)
             {
+                if (a.Id == id)
+                {
+                    entity = a;
