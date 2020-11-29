@@ -30,3 +30,7 @@ namespace StockTrackingProject
             }
             entities.Remove(entity);
         }
+        public int Count()
+        {
+            return entities.Count();
+        }
