@@ -36,3 +36,5 @@ namespace StockTrackingProject
         }
         public virtual void ShowAll()
         {
+
+            for (int i = 0; i < entities.Count; i++)
