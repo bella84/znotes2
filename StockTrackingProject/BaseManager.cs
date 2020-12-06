@@ -38,3 +38,5 @@ namespace StockTrackingProject
         {
 
             for (int i = 0; i < entities.Count; i++)
+            {
+                Console.WriteLine(i + ". - " + entities[i].Id + " " + entities[i].ToString());
