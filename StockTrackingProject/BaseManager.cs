@@ -41,3 +41,5 @@ namespace StockTrackingProject
             {
                 Console.WriteLine(i + ". - " + entities[i].Id + " " + entities[i].ToString());
             }
+        }
+        public virtual void Update(T entity)
