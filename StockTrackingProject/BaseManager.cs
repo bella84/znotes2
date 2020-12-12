@@ -47,3 +47,5 @@ namespace StockTrackingProject
             T item = null;
             foreach (T a in entities)
             {
+                if (a.Id == entity.Id)
+                {
