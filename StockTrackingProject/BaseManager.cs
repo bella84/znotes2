@@ -44,3 +44,6 @@ namespace StockTrackingProject
         }
         public virtual void Update(T entity)
         {
+            T item = null;
+            foreach (T a in entities)
+            {
