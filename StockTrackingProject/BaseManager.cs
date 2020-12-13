@@ -49,3 +49,10 @@ namespace StockTrackingProject
             {
                 if (a.Id == entity.Id)
                 {
+                    item = entity;
+                }
+            }
+        }
+
+        public T GetById(Guid id)
+        {
