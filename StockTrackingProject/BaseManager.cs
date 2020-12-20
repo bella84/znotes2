@@ -56,3 +56,5 @@ namespace StockTrackingProject
 
         public T GetById(Guid id)
         {
+            return entities.SingleOrDefault(x => x.Id == id);
+        }
