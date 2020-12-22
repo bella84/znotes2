@@ -58,3 +58,7 @@ namespace StockTrackingProject
         {
             return entities.SingleOrDefault(x => x.Id == id);
         }
+
+        public T GetByIndex(int index)
+        {
+            return entities[index];
