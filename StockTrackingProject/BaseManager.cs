@@ -62,3 +62,4 @@ namespace StockTrackingProject
         public T GetByIndex(int index)
         {
             return entities[index];
+        }
