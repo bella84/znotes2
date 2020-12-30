@@ -67,3 +67,4 @@ namespace StockTrackingProject
         public void RemoveIndex(int index)
         {
             entities.RemoveAt(index);
+        }
