@@ -7,3 +7,5 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace StockTrackingProject
+{
+    public interface IBaseManager<T>
