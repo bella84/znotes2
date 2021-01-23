@@ -10,3 +10,4 @@ namespace StockTrackingProject
 {
     public interface IBaseManager<T>
     {
+        void Add(T entity);
