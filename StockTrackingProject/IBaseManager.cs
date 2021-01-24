@@ -11,3 +11,7 @@ namespace StockTrackingProject
     public interface IBaseManager<T>
     {
         void Add(T entity);
+        void Remove(Guid id);
+        int Count();
+        void ShowAll();
+        void Update(T entity);
