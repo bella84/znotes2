@@ -15,3 +15,7 @@ namespace StockTrackingProject
         int Count();
         void ShowAll();
         void Update(T entity);
+        T GetById(Guid id);
+        T GetByIndex(int index);
+        void RemoveIndex(int index);
+    }
