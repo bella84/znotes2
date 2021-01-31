@@ -19,3 +19,4 @@ namespace StockTrackingProject
         T GetByIndex(int index);
         void RemoveIndex(int index);
     }
+}
