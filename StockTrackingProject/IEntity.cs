@@ -8,3 +8,4 @@ using System.Threading.Tasks;
 namespace StockTrackingProject
 {
     public interface IEntity
+    {
