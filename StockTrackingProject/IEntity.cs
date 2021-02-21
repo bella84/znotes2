@@ -11,3 +11,4 @@ namespace StockTrackingProject
     {
         Guid Id { get; }
     }
+}
