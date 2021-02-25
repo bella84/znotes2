@@ -8,3 +8,6 @@ using System.Threading.Tasks;
 namespace StockTrackingProject
 {
     public class Product : BaseEntity
+    {
+        private string name;
+        private string type;
