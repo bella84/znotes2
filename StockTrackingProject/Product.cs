@@ -11,3 +11,7 @@ namespace StockTrackingProject
     {
         private string name;
         private string type;
+        private int quantity;
+        public string Name
+        {
+            get
