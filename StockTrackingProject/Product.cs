@@ -15,3 +15,4 @@ namespace StockTrackingProject
         public string Name
         {
             get
+            {
