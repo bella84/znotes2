@@ -16,3 +16,5 @@ namespace StockTrackingProject
         {
             get
             {
+                return name;
+            }
