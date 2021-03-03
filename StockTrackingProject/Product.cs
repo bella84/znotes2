@@ -23,3 +23,6 @@ namespace StockTrackingProject
             {
                 name = value;
             }
+        }
+        public string Type
+        {
