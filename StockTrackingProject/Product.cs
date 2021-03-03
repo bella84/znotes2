@@ -22,3 +22,4 @@ namespace StockTrackingProject
             set
             {
                 name = value;
+            }
