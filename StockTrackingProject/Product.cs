@@ -26,3 +26,7 @@ namespace StockTrackingProject
         }
         public string Type
         {
+            get
+            {
+                return type;
+            }
