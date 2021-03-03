@@ -18,3 +18,7 @@ namespace StockTrackingProject
             {
                 return name;
             }
+
+            set
+            {
+                name = value;
