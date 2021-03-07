@@ -33,3 +33,5 @@ namespace StockTrackingProject
 
             set
             {
+                type = value;
+            }
