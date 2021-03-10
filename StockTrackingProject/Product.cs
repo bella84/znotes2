@@ -35,3 +35,7 @@ namespace StockTrackingProject
             {
                 type = value;
             }
+        }
+        public int Quantity
+        {
+            get
