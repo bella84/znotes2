@@ -39,3 +39,6 @@ namespace StockTrackingProject
         public int Quantity
         {
             get
+            {
+                return quantity;
+            }
