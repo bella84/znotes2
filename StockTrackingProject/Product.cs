@@ -49,3 +49,4 @@ namespace StockTrackingProject
             }
         }
         public Product(String Name, String Type, int Quantity)
+        {
