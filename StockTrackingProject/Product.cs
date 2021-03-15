@@ -45,3 +45,7 @@ namespace StockTrackingProject
 
             set
             {
+                quantity = value;
+            }
+        }
+        public Product(String Name, String Type, int Quantity)
