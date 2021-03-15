@@ -42,3 +42,6 @@ namespace StockTrackingProject
             {
                 return quantity;
             }
+
+            set
+            {
