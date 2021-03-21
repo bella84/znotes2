@@ -53,3 +53,4 @@ namespace StockTrackingProject
             this.Name = Name;
             this.Quantity = Quantity;
             this.Type = Type;
+        }
