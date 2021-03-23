@@ -57,3 +57,7 @@ namespace StockTrackingProject
 
         public override string ToString()
         {
+            return name + " " + quantity + " " + type;
+        }
+    }
+}
