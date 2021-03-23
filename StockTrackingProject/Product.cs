@@ -54,3 +54,6 @@ namespace StockTrackingProject
             this.Quantity = Quantity;
             this.Type = Type;
         }
+
+        public override string ToString()
+        {
