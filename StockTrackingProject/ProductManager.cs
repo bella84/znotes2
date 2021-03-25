@@ -9,3 +9,5 @@ namespace StockTrackingProject
 {
     public class ProductManager : BaseManager<Product>
     {
+    }
+}
