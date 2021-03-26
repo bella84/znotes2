@@ -9,3 +9,6 @@ using System.Threading.Tasks;
 namespace StockTrackingProject
 {
     internal class Program
+    {
+        static void Main(string[] args)
+        {
