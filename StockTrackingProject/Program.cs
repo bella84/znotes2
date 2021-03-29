@@ -12,3 +12,5 @@ namespace StockTrackingProject
     {
         static void Main(string[] args)
         {
+            ProductManager products = new ProductManager();
+            while (true)
