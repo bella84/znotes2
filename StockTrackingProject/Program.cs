@@ -18,3 +18,5 @@ namespace StockTrackingProject
                 Console.Clear();
                 string process;
                 Console.WriteLine("Choose one of the following actions:");
+                Console.WriteLine("1-Printing products to screen");
+                Console.WriteLine("2-Add product");
