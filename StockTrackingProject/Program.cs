@@ -16,3 +16,5 @@ namespace StockTrackingProject
             while (true)
             {
                 Console.Clear();
+                string process;
+                Console.WriteLine("Choose one of the following actions:");
