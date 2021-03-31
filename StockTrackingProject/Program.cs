@@ -14,3 +14,5 @@ namespace StockTrackingProject
         {
             ProductManager products = new ProductManager();
             while (true)
+            {
+                Console.Clear();
