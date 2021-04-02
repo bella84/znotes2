@@ -22,3 +22,6 @@ namespace StockTrackingProject
                 Console.WriteLine("2-Add product");
                 Console.WriteLine("3-Product extraction");
                 Console.WriteLine("4-Product updating");
+                Console.WriteLine("5-Exit");
+                Console.Write("Your choice: ");
+                process = Console.ReadLine();
