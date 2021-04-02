@@ -25,3 +25,7 @@ namespace StockTrackingProject
                 Console.WriteLine("5-Exit");
                 Console.Write("Your choice: ");
                 process = Console.ReadLine();
+                Console.Clear();
+                switch (process)
+                {
+                    case "1":
