@@ -29,3 +29,6 @@ namespace StockTrackingProject
                 switch (process)
                 {
                     case "1":
+                        if (products.Count() == 0)
+                        {
+                            Console.WriteLine("There is no product.Please add the product first.");
