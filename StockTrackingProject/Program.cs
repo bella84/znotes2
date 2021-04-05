@@ -32,3 +32,4 @@ namespace StockTrackingProject
                         if (products.Count() == 0)
                         {
                             Console.WriteLine("There is no product.Please add the product first.");
+                        }
