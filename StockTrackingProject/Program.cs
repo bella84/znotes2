@@ -37,3 +37,7 @@ namespace StockTrackingProject
                         {
                             products.ShowAll();
                         }
+                        Thread.Sleep(3500);
+                        break;
+
+                    case "2":
