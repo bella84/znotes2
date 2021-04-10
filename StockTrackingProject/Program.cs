@@ -46,3 +46,7 @@ namespace StockTrackingProject
                         Console.WriteLine("Enter the product type:");
                         string Type = Console.ReadLine();
                         Console.WriteLine("Enter the product quantity:");
+                        int Quantity = Convert.ToInt32(Console.ReadLine());
+                        products.Add(new Product(Name, Type, Quantity));
+                        Console.WriteLine("The product has been successfully added");
+                        continue;
