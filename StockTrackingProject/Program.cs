@@ -50,3 +50,5 @@ namespace StockTrackingProject
                         products.Add(new Product(Name, Type, Quantity));
                         Console.WriteLine("The product has been successfully added");
                         continue;
+
+                    case "3":
