@@ -43,3 +43,6 @@ namespace StockTrackingProject
                     case "2":
                         Console.WriteLine("Enter the product name:");
                         string Name = Console.ReadLine();
+                        Console.WriteLine("Enter the product type:");
+                        string Type = Console.ReadLine();
+                        Console.WriteLine("Enter the product quantity:");
