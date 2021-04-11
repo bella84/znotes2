@@ -52,3 +52,5 @@ namespace StockTrackingProject
                         continue;
 
                     case "3":
+                        if (products.Count() == 0)
+                        {
