@@ -68,3 +68,5 @@ namespace StockTrackingProject
                         continue;
 
                     case "4":
+                        if (products.Count() == 0)
+                        {
