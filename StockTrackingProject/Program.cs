@@ -57,3 +57,5 @@ namespace StockTrackingProject
                             Console.WriteLine("There is no product.Please add the product first.");
                         }
                         else
+                        {
+                            products.ShowAll();
