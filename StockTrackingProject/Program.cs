@@ -62,3 +62,9 @@ namespace StockTrackingProject
                             Console.WriteLine("Enter the number of the product you want to delete. ");
                             int index = Convert.ToInt32(Console.ReadLine());
                             products.RemoveIndex(index);
+                            Console.WriteLine("The product has been successfully extracted.");
+                        }
+                        Thread.Sleep(1500);
+                        continue;
+
+                    case "4":
