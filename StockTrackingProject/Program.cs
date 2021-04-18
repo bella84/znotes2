@@ -75,3 +75,4 @@ namespace StockTrackingProject
                         else
                         {
                             products.ShowAll();
+                            Console.WriteLine("Enter the number of the product you want to update .");
