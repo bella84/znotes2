@@ -74,3 +74,4 @@ namespace StockTrackingProject
                         }
                         else
                         {
+                            products.ShowAll();
