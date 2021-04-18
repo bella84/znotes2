@@ -76,3 +76,6 @@ namespace StockTrackingProject
                         {
                             products.ShowAll();
                             Console.WriteLine("Enter the number of the product you want to update .");
+                            int i = Convert.ToInt32(Console.ReadLine());
+                            Product product = products.GetByIndex(i);
+                            Console.WriteLine("Enter the  product new quantity:");
