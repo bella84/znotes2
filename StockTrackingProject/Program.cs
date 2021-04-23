@@ -80,3 +80,4 @@ namespace StockTrackingProject
                             Product product = products.GetByIndex(i);
                             Console.WriteLine("Enter the  product new quantity:");
                             int x = Convert.ToInt32(Console.ReadLine());
+                            product.Quantity = x;
