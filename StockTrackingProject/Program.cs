@@ -83,3 +83,6 @@ namespace StockTrackingProject
                             product.Quantity = x;
                             products.Update(product);
                             Console.WriteLine("The product has been successfully updated.");
+                        }
+                        Thread.Sleep(1500);
+                        continue;
