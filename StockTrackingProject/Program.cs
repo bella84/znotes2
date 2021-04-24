@@ -86,3 +86,8 @@ namespace StockTrackingProject
                         }
                         Thread.Sleep(1500);
                         continue;
+
+                    case "5":
+                        Console.WriteLine("Logged out.");
+                        Thread.Sleep(1500);
+                        Environment.Exit(0);
