@@ -91,3 +91,4 @@ namespace StockTrackingProject
                         Console.WriteLine("Logged out.");
                         Thread.Sleep(1500);
                         Environment.Exit(0);
+                        break;
