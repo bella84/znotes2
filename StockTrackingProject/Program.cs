@@ -92,3 +92,5 @@ namespace StockTrackingProject
                         Thread.Sleep(1500);
                         Environment.Exit(0);
                         break;
+                }
+                    
