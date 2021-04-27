@@ -94,3 +94,7 @@ namespace StockTrackingProject
                         break;
                 }
                     
+
+            }
+            Thread.Sleep(1500);
+        }
