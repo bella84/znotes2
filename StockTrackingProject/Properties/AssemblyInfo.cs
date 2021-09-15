@@ -8,4 +8,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("StockTrackingProject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyComp
+[assembly: AssemblyCompany
