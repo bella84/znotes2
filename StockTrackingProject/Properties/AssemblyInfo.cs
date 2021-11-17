@@ -10,4 +10,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("StockTrackingProject")]
-[assembly: AssemblyCopyright("Copyright ©  20
+[assembly: AssemblyCopyright("Copyright ©  2022")]
