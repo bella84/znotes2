@@ -11,3 +11,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("StockTrackingProject")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
+[ass
