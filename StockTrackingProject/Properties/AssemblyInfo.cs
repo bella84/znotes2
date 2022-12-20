@@ -30,4 +30,4 @@ using System.Runtime.InteropServices;
 //      Revision
 //
 // You can specify all the values or you can default the Build and Revision Numbers
-// by using the '*' as show
+// by using the '*' as shown be
