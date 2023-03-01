@@ -7,3 +7,4 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{71B55976-7FF7-476E-B845-C54E404553A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <RootNamespace>StockTrackingProject</RootNamespace>
