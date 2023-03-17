@@ -44,3 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseManager.cs" />
+    <Compile Include="BaseEntity.cs" />
+    <Compile Include="IBaseManager.cs" />
+    <Compile Include="IEntity.cs" />
